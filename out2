@@ -1,0 +1,494 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Special provisions of Section 10 shall permit occupancies at building heights other than provided in Section 10
+1	Special	special	ADJ	POS	Degree=Pos	2	amod	_	_
+2	provisions	provision	NOUN	PL-NOM	Number=Plur	7	nsubj	_	_
+3	of	of	ADP	_	_	4	case	_	_
+4	Section	section	NOUN	SG-NOM	Number=Sing	2	nmod	_	_
+5	10	10	NUM	CARD-PL	NumType=Card	4	nummod	_	_
+6	shall	shall	AUX	PRES-AUX	VerbForm=Fin	7	aux	_	_
+7	permit	permit	VERB	INF	VerbForm=Inf	0	root	_	_
+8	occupancies	occupancy	NOUN	PL-NOM	Number=Plur	7	obj	_	_
+9	at	at	ADP	_	_	10	case	_	_
+10	building	building	NOUN	SG-NOM	Number=Sing	11	compound	_	_
+11	heights	height	NOUN	PL-NOM	Number=Plur	7	obl	_	_
+12	other	other	ADJ	POS	Degree=Pos	11	amod	_	_
+13	than	than	ADP	_	_	14	mark	_	_
+14	provided	provide	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	_
+15	in	in	ADP	_	_	16	case	_	_
+16	Section	section	NOUN	SG-NOM	Number=Sing	14	obl	_	_
+17	10	10	NUM	CARD-PL	NumType=Card	16	nummod	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Individual occupancies shall be separated from adjacent occupancies in accordance with Table 10
+1	Individual	individual	ADJ	POS	Degree=Pos	2	amod	_	_
+2	occupancies	occupancy	NOUN	PL-NOM	Number=Plur	5	nsubj:pass	_	_
+3	shall	shall	AUX	PRES-AUX	VerbForm=Fin	5	aux	_	_
+4	be	be	AUX	INF	VerbForm=Inf	5	aux:pass	_	_
+5	separated	separate	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+6	from	from	ADP	_	_	8	case	_	_
+7	adjacent	adjacent	ADJ	POS	Degree=Pos	8	amod	_	_
+8	occupancies	occupancy	NOUN	PL-NOM	Number=Plur	5	obl	_	_
+9	in	in	ADP	_	_	10	case	_	_
+10	accordance	accordance	NOUN	SG-NOM	Number=Sing	8	nmod	_	_
+11	with	with	ADP	_	_	13	case	_	_
+12	Table	table	ADJ	POS	Degree=Pos	13	amod	_	_
+13	10	10	NUM	CARD-PL	NumType=Card	5	obl	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Required separations shall be fire barriers constructed in accordance with Section 10 or horizontal assemblies constructed in accordance with Section 10 , or both , so as to completely separate adjacent occupancies
+1	Required	required	ADJ	POS	Degree=Pos	2	amod	_	_
+2	separations	separation	NOUN	PL-NOM	Number=Plur	6	nsubj	_	_
+3	shall	shall	AUX	PRES-AUX	VerbForm=Fin	6	aux	_	_
+4	be	be	AUX	INF	VerbForm=Inf	6	cop	_	_
+5	fire	fire	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	barriers	barrier	NOUN	PL-NOM	Number=Plur	0	root	_	_
+7	constructed	construct	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+8	in	in	ADP	_	_	9	case	_	_
+9	accordance	accordance	NOUN	SG-NOM	Number=Sing	7	obl	_	_
+10	with	with	ADP	_	_	15	case	_	_
+11	Section	section	NOUN	SG-NOM	Number=Sing	15	compound	_	_
+12	10	10	NUM	CARD-PL	NumType=Card	15	nummod	_	_
+13	or	or	CCONJ	_	_	14	cc	_	_
+14	horizontal	horizontal	ADJ	POS	Degree=Pos	12	conj	_	_
+15	assemblies	assembly	NOUN	PL-NOM	Number=Plur	7	obl	_	_
+16	constructed	construct	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	15	acl	_	_
+17	in	in	ADP	_	_	18	case	_	_
+18	accordance	accordance	NOUN	SG-NOM	Number=Sing	16	obl	_	_
+19	with	with	ADP	_	_	21	case	_	_
+20	Section	section	NOUN	SG-NOM	Number=Sing	21	compound	_	_
+21	10	10	NUM	CARD-PL	NumType=Card	16	obl	_	_
+22	,	,	PUNCT	Comma	_	24	punct	_	_
+23	or	or	CCONJ	_	_	24	cc	_	_
+24	both	both	PRON	TOT-PL	Case=Nom	6	conj	_	_
+25	,	,	PUNCT	Comma	_	24	punct	_	_
+26	so	so	ADV	_	_	27	advmod	_	_
+27	as	as	ADV	_	_	32	advmod	_	_
+28	to	to	ADP	_	_	32	case	_	_
+29	completely	completely	ADV	_	_	30	advmod	_	_
+30	separate	separate	ADJ	POS	Degree=Pos	32	amod	_	_
+31	adjacent	adjacent	ADJ	POS	Degree=Pos	32	amod	_	_
+32	occupancies	occupancy	NOUN	PL-NOM	Number=Plur	6	conj	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Incidental uses located within single occupancy or mixed occupancy buildings shall comply with the provisions of this section
+1	Incidental	Incidental	ADJ	POS	Degree=Pos	2	amod	_	_
+2	uses	use	NOUN	PL-NOM	Number=Plur	12	nsubj	_	_
+3	located	locate	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+4	within	within	ADP	_	_	6	case	_	_
+5	single	single	ADJ	POS	Degree=Pos	6	amod	_	_
+6	occupancy	occupancy	NOUN	SG-NOM	Number=Sing	3	obl	_	_
+7	or	or	CCONJ	_	_	8	cc	_	_
+8	mixed	mix	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	_
+9	occupancy	occupancy	ADJ	POS	Degree=Pos	10	amod	_	_
+10	buildings	building	NOUN	PL-NOM	Number=Plur	8	obj	_	_
+11	shall	shall	AUX	PRES-AUX	VerbForm=Fin	12	cop	_	_
+12	comply	comply	ADJ	POS	Degree=Pos	0	root	_	_
+13	with	with	ADP	_	_	15	case	_	_
+14	the	the	DET	DEF	Definite=Def|PronType=Art	15	det	_	_
+15	provisions	provision	NOUN	PL-NOM	Number=Plur	12	nmod	_	_
+16	of	of	ADP	_	_	18	case	_	_
+17	this	this	DET	DEM-SG	Number=Sing|PronType=Dem	18	det	_	_
+18	section	section	NOUN	SG-NOM	Number=Sing	15	nmod	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Incidental uses are ancillary functions associated with a given occupancy that generally pose a greater level of risk to that occupancy and are limited to those uses listed in Table 10
+1	Incidental	Incidental	ADJ	POS	Degree=Pos	2	amod	_	_
+2	uses	use	NOUN	PL-NOM	Number=Plur	5	nsubj	_	_
+3	are	be	AUX	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	ancillary	ancillary	ADJ	POS	Degree=Pos	5	amod	_	_
+5	functions	function	NOUN	PL-NOM	Number=Plur	0	root	_	_
+6	associated	associate	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
+7	with	with	ADP	_	_	10	case	_	_
+8	a	a	DET	IND-SG	Definite=Ind|PronType=Art	10	det	_	_
+9	given	given	ADJ	POS	Degree=Pos	10	amod	_	_
+10	occupancy	occupancy	NOUN	SG-NOM	Number=Sing	6	obl	_	_
+11	that	that	PRON	REL	PronType=Rel	13	nsubj	_	_
+12	generally	generally	ADV	_	_	13	advmod	_	_
+13	pose	pose	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	10	acl:relcl	_	_
+14	a	a	DET	IND-SG	Definite=Ind|PronType=Art	16	det	_	_
+15	greater	great	ADJ	CMP	Degree=Cmp	16	amod	_	_
+16	level	level	NOUN	SG-NOM	Number=Sing	13	obj	_	_
+17	of	of	ADP	_	_	18	case	_	_
+18	risk	risk	NOUN	SG-NOM	Number=Sing	16	nmod	_	_
+19	to	to	ADP	_	_	21	case	_	_
+20	that	that	DET	DEM-SG	Number=Sing|PronType=Dem	21	det	_	_
+21	occupancy	occupancy	NOUN	SG-NOM	Number=Sing	18	nmod	_	_
+22	and	and	CCONJ	_	_	24	cc	_	_
+23	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	24	aux:pass	_	_
+24	limited	limit	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	5	conj	_	_
+25	to	to	ADP	_	_	27	case	_	_
+26	those	that	DET	DEM-PL	Number=Plur|PronType=Dem	27	det	_	_
+27	uses	use	NOUN	PL-NOM	Number=Plur	24	obl	_	_
+28	listed	list	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	27	acl	_	_
+29	in	in	ADP	_	_	31	case	_	_
+30	Table	table	ADJ	POS	Degree=Pos	31	amod	_	_
+31	10	10	NUM	CARD-PL	NumType=Card	28	obl	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Incidental uses within and serving a dwelling unit are not required to comply with this section
+1	Incidental	Incidental	ADJ	POS	Degree=Pos	2	advmod	_	_
+2	uses	use	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	nsubj:pass	_	_
+3	within	within	ADV	_	Case=Nom	2	advmod	_	_
+4	and	and	CCONJ	_	_	5	cc	_	_
+5	serving	serve	VERB	ING	Tense=Pres|VerbForm=Part	2	conj	_	_
+6	a	a	DET	IND-SG	Definite=Ind|PronType=Art	8	det	_	_
+7	dwelling	dwelle	ADJ	ING	Degree=Pos	8	amod	_	_
+8	unit	unit	NOUN	SG-NOM	Number=Sing	5	obj	_	_
+9	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
+10	not	not	PART	NEG	_	11	advmod	_	_
+11	required	require	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+12	to	to	PART	_	_	13	mark	_	_
+13	comply	comply	VERB	INF	VerbForm=Inf	11	xcomp	_	_
+14	with	with	ADP	_	_	16	case	_	_
+15	this	this	DET	DEM-SG	Number=Sing|PronType=Dem	16	det	_	_
+16	section	section	NOUN	SG-NOM	Number=Sing	13	obl	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Incidental uses shall not be individually classified in accordance with Section 10
+1	Incidental	Incidental	ADJ	POS	Degree=Pos	2	amod	_	_
+2	uses	use	NOUN	PL-NOM	Number=Plur	7	nsubj:pass	_	_
+3	shall	shall	AUX	PRES-AUX	VerbForm=Fin	7	aux	_	_
+4	not	not	PART	NEG	_	7	advmod	_	_
+5	be	be	AUX	INF	VerbForm=Inf	7	aux:pass	_	_
+6	individually	individually	ADV	_	_	7	advmod	_	_
+7	classified	classify	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+8	in	in	ADP	_	_	9	case	_	_
+9	accordance	accordance	NOUN	SG-NOM	Number=Sing	7	obl	_	_
+10	with	with	ADP	_	_	11	case	_	_
+11	Section	section	NOUN	SG-NOM	Number=Sing	9	nmod	_	_
+12	10	10	NUM	CARD-PL	NumType=Card	11	nummod	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Incidental uses shall be included in the building occupancies within which they are located
+1	Incidental	Incidental	ADJ	POS	Degree=Pos	2	amod	_	_
+2	uses	use	NOUN	PL-NOM	Number=Plur	5	nsubj:pass	_	_
+3	shall	shall	AUX	PRES-AUX	VerbForm=Fin	5	aux	_	_
+4	be	be	AUX	INF	VerbForm=Inf	5	aux:pass	_	_
+5	included	include	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+6	in	in	ADP	_	_	9	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+8	building	building	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	occupancies	occupancy	NOUN	PL-NOM	Number=Plur	5	obl	_	_
+10	within	within	ADP	_	_	11	case	_	_
+11	which	which	PRON	WH-REL	PronType=Int	14	obl	_	_
+12	they	they	PRON	PERS-PL-NOM	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj:pass	_	_
+13	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux:pass	_	_
+14	located	locate	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	9	acl:relcl	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Incidental uses shall not occupy more than 10 percent of the building area of the story in which they are located
+1	Incidental	Incidental	ADJ	POS	Degree=Pos	2	amod	_	_
+2	uses	use	NOUN	PL-NOM	Number=Plur	5	nsubj	_	_
+3	shall	shall	AUX	PRES-AUX	VerbForm=Fin	5	aux	_	_
+4	not	not	PART	NEG	_	5	advmod	_	_
+5	occupy	occupy	VERB	INF	VerbForm=Inf	0	root	_	_
+6	more	much	ADV	CMP	_	9	advmod	_	_
+7	than	than	ADP	_	_	9	case	_	_
+8	10	10	NUM	CARD-PL	NumType=Card	9	nummod	_	_
+9	percent	percent	NOUN	SG-NOM	Number=Sing	5	obl	_	_
+10	of	of	ADP	_	_	13	case	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	building	building	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	area	area	NOUN	SG-NOM	Number=Sing	9	nmod	_	_
+14	of	of	ADP	_	_	16	case	_	_
+15	the	the	DET	DEF	Definite=Def|PronType=Art	16	det	_	_
+16	story	story	NOUN	SG-NOM	Number=Sing	13	nmod	_	_
+17	in	in	ADP	_	_	18	case	_	_
+18	which	which	PRON	WH-REL	PronType=Int	21	obl	_	_
+19	they	they	PRON	PERS-PL-NOM	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj:pass	_	_
+20	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	21	aux:pass	_	_
+21	located	locate	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	16	acl:relcl	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Doors shall not have air transfer openings and shall not be undercut in excess of the clearance permitted in accordance with NFPA 80
+1	Doors	door	NOUN	PL-NOM	Number=Plur	4	nsubj	_	_
+2	shall	shall	AUX	PRES-AUX	VerbForm=Fin	4	aux	_	_
+3	not	not	PART	NEG	_	4	advmod	_	_
+4	have	have	VERB	INF	VerbForm=Inf	0	root	_	_
+5	air	air	NOUN	SG-NOM	Number=Sing	7	compound	_	_
+6	transfer	transfer	NOUN	SG-NOM	Number=Sing	7	compound	_	_
+7	openings	opening	NOUN	PL-NOM	Number=Plur	4	obj	_	_
+8	and	and	CCONJ	_	_	12	cc	_	_
+9	shall	shall	AUX	PRES-AUX	VerbForm=Fin	12	aux	_	_
+10	not	not	PART	NEG	_	12	advmod	_	_
+11	be	be	AUX	INF	VerbForm=Inf	12	aux:pass	_	_
+12	undercut	undercut	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	_
+13	in	in	ADP	_	_	14	case	_	_
+14	excess	excess	NOUN	SG-NOM	Number=Sing	12	obl	_	_
+15	of	of	ADP	_	_	17	case	_	_
+16	the	the	DET	DEF	Definite=Def|PronType=Art	17	det	_	_
+17	clearance	clearance	NOUN	SG-NOM	Number=Sing	14	nmod	_	_
+18	permitted	permit	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	_
+19	in	in	ADP	_	_	20	case	_	_
+20	accordance	accordance	NOUN	SG-NOM	Number=Sing	18	obl	_	_
+21	with	with	ADP	_	_	22	case	_	_
+22	NFPA	Nfpa	PROPN	SG-NOM	Number=Sing	18	obl	_	_
+23	80	80	NUM	CARD-PL	NumType=Card	22	nummod	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Special provisions of Section 10 shall permit occupancies at building heights other than provided in Section 10
+1	Special	special	ADJ	POS	Degree=Pos	2	amod	_	_
+2	provisions	provision	NOUN	PL-NOM	Number=Plur	7	nsubj	_	_
+3	of	of	ADP	_	_	4	case	_	_
+4	Section	section	NOUN	SG-NOM	Number=Sing	2	nmod	_	_
+5	10	10	NUM	CARD-PL	NumType=Card	4	nummod	_	_
+6	shall	shall	AUX	PRES-AUX	VerbForm=Fin	7	aux	_	_
+7	permit	permit	VERB	INF	VerbForm=Inf	0	root	_	_
+8	occupancies	occupancy	NOUN	PL-NOM	Number=Plur	7	obj	_	_
+9	at	at	ADP	_	_	10	case	_	_
+10	building	building	NOUN	SG-NOM	Number=Sing	11	compound	_	_
+11	heights	height	NOUN	PL-NOM	Number=Plur	7	obl	_	_
+12	other	other	ADJ	POS	Degree=Pos	11	amod	_	_
+13	than	than	ADP	_	_	14	mark	_	_
+14	provided	provide	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	12	acl	_	_
+15	in	in	ADP	_	_	16	case	_	_
+16	Section	section	NOUN	SG-NOM	Number=Sing	14	obl	_	_
+17	10	10	NUM	CARD-PL	NumType=Card	16	nummod	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Individual occupancies shall be separated from adjacent occupancies in accordance with Table 10
+1	Individual	individual	ADJ	POS	Degree=Pos	2	amod	_	_
+2	occupancies	occupancy	NOUN	PL-NOM	Number=Plur	5	nsubj:pass	_	_
+3	shall	shall	AUX	PRES-AUX	VerbForm=Fin	5	aux	_	_
+4	be	be	AUX	INF	VerbForm=Inf	5	aux:pass	_	_
+5	separated	separate	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+6	from	from	ADP	_	_	8	case	_	_
+7	adjacent	adjacent	ADJ	POS	Degree=Pos	8	amod	_	_
+8	occupancies	occupancy	NOUN	PL-NOM	Number=Plur	5	obl	_	_
+9	in	in	ADP	_	_	10	case	_	_
+10	accordance	accordance	NOUN	SG-NOM	Number=Sing	8	nmod	_	_
+11	with	with	ADP	_	_	13	case	_	_
+12	Table	table	ADJ	POS	Degree=Pos	13	amod	_	_
+13	10	10	NUM	CARD-PL	NumType=Card	5	obl	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Required separations shall be fire barriers constructed in accordance with Section 10 or horizontal assemblies constructed in accordance with Section 10 , or both , so as to completely separate adjacent occupancies
+1	Required	required	ADJ	POS	Degree=Pos	2	amod	_	_
+2	separations	separation	NOUN	PL-NOM	Number=Plur	6	nsubj	_	_
+3	shall	shall	AUX	PRES-AUX	VerbForm=Fin	6	aux	_	_
+4	be	be	AUX	INF	VerbForm=Inf	6	cop	_	_
+5	fire	fire	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	barriers	barrier	NOUN	PL-NOM	Number=Plur	0	root	_	_
+7	constructed	construct	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+8	in	in	ADP	_	_	9	case	_	_
+9	accordance	accordance	NOUN	SG-NOM	Number=Sing	7	obl	_	_
+10	with	with	ADP	_	_	15	case	_	_
+11	Section	section	NOUN	SG-NOM	Number=Sing	15	compound	_	_
+12	10	10	NUM	CARD-PL	NumType=Card	15	nummod	_	_
+13	or	or	CCONJ	_	_	14	cc	_	_
+14	horizontal	horizontal	ADJ	POS	Degree=Pos	12	conj	_	_
+15	assemblies	assembly	NOUN	PL-NOM	Number=Plur	7	obl	_	_
+16	constructed	construct	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	15	acl	_	_
+17	in	in	ADP	_	_	18	case	_	_
+18	accordance	accordance	NOUN	SG-NOM	Number=Sing	16	obl	_	_
+19	with	with	ADP	_	_	21	case	_	_
+20	Section	section	NOUN	SG-NOM	Number=Sing	21	compound	_	_
+21	10	10	NUM	CARD-PL	NumType=Card	16	obl	_	_
+22	,	,	PUNCT	Comma	_	24	punct	_	_
+23	or	or	CCONJ	_	_	24	cc	_	_
+24	both	both	PRON	TOT-PL	Case=Nom	6	conj	_	_
+25	,	,	PUNCT	Comma	_	24	punct	_	_
+26	so	so	ADV	_	_	27	advmod	_	_
+27	as	as	ADV	_	_	32	advmod	_	_
+28	to	to	ADP	_	_	32	case	_	_
+29	completely	completely	ADV	_	_	30	advmod	_	_
+30	separate	separate	ADJ	POS	Degree=Pos	32	amod	_	_
+31	adjacent	adjacent	ADJ	POS	Degree=Pos	32	amod	_	_
+32	occupancies	occupancy	NOUN	PL-NOM	Number=Plur	6	conj	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Incidental uses located within single occupancy or mixed occupancy buildings shall comply with the provisions of this section
+1	Incidental	Incidental	ADJ	POS	Degree=Pos	2	amod	_	_
+2	uses	use	NOUN	PL-NOM	Number=Plur	12	nsubj	_	_
+3	located	locate	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+4	within	within	ADP	_	_	6	case	_	_
+5	single	single	ADJ	POS	Degree=Pos	6	amod	_	_
+6	occupancy	occupancy	NOUN	SG-NOM	Number=Sing	3	obl	_	_
+7	or	or	CCONJ	_	_	8	cc	_	_
+8	mixed	mix	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	_
+9	occupancy	occupancy	ADJ	POS	Degree=Pos	10	amod	_	_
+10	buildings	building	NOUN	PL-NOM	Number=Plur	8	obj	_	_
+11	shall	shall	AUX	PRES-AUX	VerbForm=Fin	12	cop	_	_
+12	comply	comply	ADJ	POS	Degree=Pos	0	root	_	_
+13	with	with	ADP	_	_	15	case	_	_
+14	the	the	DET	DEF	Definite=Def|PronType=Art	15	det	_	_
+15	provisions	provision	NOUN	PL-NOM	Number=Plur	12	nmod	_	_
+16	of	of	ADP	_	_	18	case	_	_
+17	this	this	DET	DEM-SG	Number=Sing|PronType=Dem	18	det	_	_
+18	section	section	NOUN	SG-NOM	Number=Sing	15	nmod	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Incidental uses are ancillary functions associated with a given occupancy that generally pose a greater level of risk to that occupancy and are limited to those uses listed in Table 10
+1	Incidental	Incidental	ADJ	POS	Degree=Pos	2	amod	_	_
+2	uses	use	NOUN	PL-NOM	Number=Plur	5	nsubj	_	_
+3	are	be	AUX	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	ancillary	ancillary	ADJ	POS	Degree=Pos	5	amod	_	_
+5	functions	function	NOUN	PL-NOM	Number=Plur	0	root	_	_
+6	associated	associate	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
+7	with	with	ADP	_	_	10	case	_	_
+8	a	a	DET	IND-SG	Definite=Ind|PronType=Art	10	det	_	_
+9	given	given	ADJ	POS	Degree=Pos	10	amod	_	_
+10	occupancy	occupancy	NOUN	SG-NOM	Number=Sing	6	obl	_	_
+11	that	that	PRON	REL	PronType=Rel	13	nsubj	_	_
+12	generally	generally	ADV	_	_	13	advmod	_	_
+13	pose	pose	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	10	acl:relcl	_	_
+14	a	a	DET	IND-SG	Definite=Ind|PronType=Art	16	det	_	_
+15	greater	great	ADJ	CMP	Degree=Cmp	16	amod	_	_
+16	level	level	NOUN	SG-NOM	Number=Sing	13	obj	_	_
+17	of	of	ADP	_	_	18	case	_	_
+18	risk	risk	NOUN	SG-NOM	Number=Sing	16	nmod	_	_
+19	to	to	ADP	_	_	21	case	_	_
+20	that	that	DET	DEM-SG	Number=Sing|PronType=Dem	21	det	_	_
+21	occupancy	occupancy	NOUN	SG-NOM	Number=Sing	18	nmod	_	_
+22	and	and	CCONJ	_	_	24	cc	_	_
+23	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	24	aux:pass	_	_
+24	limited	limit	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	5	conj	_	_
+25	to	to	ADP	_	_	27	case	_	_
+26	those	that	DET	DEM-PL	Number=Plur|PronType=Dem	27	det	_	_
+27	uses	use	NOUN	PL-NOM	Number=Plur	24	obl	_	_
+28	listed	list	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	27	acl	_	_
+29	in	in	ADP	_	_	31	case	_	_
+30	Table	table	ADJ	POS	Degree=Pos	31	amod	_	_
+31	10	10	NUM	CARD-PL	NumType=Card	28	obl	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Incidental uses within and serving a dwelling unit are not required to comply with this section
+1	Incidental	Incidental	ADJ	POS	Degree=Pos	2	advmod	_	_
+2	uses	use	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	nsubj:pass	_	_
+3	within	within	ADV	_	Case=Nom	2	advmod	_	_
+4	and	and	CCONJ	_	_	5	cc	_	_
+5	serving	serve	VERB	ING	Tense=Pres|VerbForm=Part	2	conj	_	_
+6	a	a	DET	IND-SG	Definite=Ind|PronType=Art	8	det	_	_
+7	dwelling	dwelle	ADJ	ING	Degree=Pos	8	amod	_	_
+8	unit	unit	NOUN	SG-NOM	Number=Sing	5	obj	_	_
+9	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
+10	not	not	PART	NEG	_	11	advmod	_	_
+11	required	require	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+12	to	to	PART	_	_	13	mark	_	_
+13	comply	comply	VERB	INF	VerbForm=Inf	11	xcomp	_	_
+14	with	with	ADP	_	_	16	case	_	_
+15	this	this	DET	DEM-SG	Number=Sing|PronType=Dem	16	det	_	_
+16	section	section	NOUN	SG-NOM	Number=Sing	13	obl	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Incidental uses shall not be individually classified in accordance with Section 10
+1	Incidental	Incidental	ADJ	POS	Degree=Pos	2	amod	_	_
+2	uses	use	NOUN	PL-NOM	Number=Plur	7	nsubj:pass	_	_
+3	shall	shall	AUX	PRES-AUX	VerbForm=Fin	7	aux	_	_
+4	not	not	PART	NEG	_	7	advmod	_	_
+5	be	be	AUX	INF	VerbForm=Inf	7	aux:pass	_	_
+6	individually	individually	ADV	_	_	7	advmod	_	_
+7	classified	classify	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+8	in	in	ADP	_	_	9	case	_	_
+9	accordance	accordance	NOUN	SG-NOM	Number=Sing	7	obl	_	_
+10	with	with	ADP	_	_	11	case	_	_
+11	Section	section	NOUN	SG-NOM	Number=Sing	9	nmod	_	_
+12	10	10	NUM	CARD-PL	NumType=Card	11	nummod	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Incidental uses shall be included in the building occupancies within which they are located
+1	Incidental	Incidental	ADJ	POS	Degree=Pos	2	amod	_	_
+2	uses	use	NOUN	PL-NOM	Number=Plur	5	nsubj:pass	_	_
+3	shall	shall	AUX	PRES-AUX	VerbForm=Fin	5	aux	_	_
+4	be	be	AUX	INF	VerbForm=Inf	5	aux:pass	_	_
+5	included	include	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+6	in	in	ADP	_	_	9	case	_	_
+7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+8	building	building	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	occupancies	occupancy	NOUN	PL-NOM	Number=Plur	5	obl	_	_
+10	within	within	ADP	_	_	11	case	_	_
+11	which	which	PRON	WH-REL	PronType=Int	14	obl	_	_
+12	they	they	PRON	PERS-PL-NOM	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj:pass	_	_
+13	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	14	aux:pass	_	_
+14	located	locate	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	9	acl:relcl	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Incidental uses shall not occupy more than 10 percent of the building area of the story in which they are located
+1	Incidental	Incidental	ADJ	POS	Degree=Pos	2	amod	_	_
+2	uses	use	NOUN	PL-NOM	Number=Plur	5	nsubj	_	_
+3	shall	shall	AUX	PRES-AUX	VerbForm=Fin	5	aux	_	_
+4	not	not	PART	NEG	_	5	advmod	_	_
+5	occupy	occupy	VERB	INF	VerbForm=Inf	0	root	_	_
+6	more	much	ADV	CMP	_	9	advmod	_	_
+7	than	than	ADP	_	_	9	case	_	_
+8	10	10	NUM	CARD-PL	NumType=Card	9	nummod	_	_
+9	percent	percent	NOUN	SG-NOM	Number=Sing	5	obl	_	_
+10	of	of	ADP	_	_	13	case	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	building	building	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	area	area	NOUN	SG-NOM	Number=Sing	9	nmod	_	_
+14	of	of	ADP	_	_	16	case	_	_
+15	the	the	DET	DEF	Definite=Def|PronType=Art	16	det	_	_
+16	story	story	NOUN	SG-NOM	Number=Sing	13	nmod	_	_
+17	in	in	ADP	_	_	18	case	_	_
+18	which	which	PRON	WH-REL	PronType=Int	21	obl	_	_
+19	they	they	PRON	PERS-PL-NOM	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj:pass	_	_
+20	are	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	21	aux:pass	_	_
+21	located	locate	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	16	acl:relcl	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Doors shall not have air transfer openings and shall not be undercut in excess of the clearance permitted in accordance with NFPA 80
+1	Doors	door	NOUN	PL-NOM	Number=Plur	4	nsubj	_	_
+2	shall	shall	AUX	PRES-AUX	VerbForm=Fin	4	aux	_	_
+3	not	not	PART	NEG	_	4	advmod	_	_
+4	have	have	VERB	INF	VerbForm=Inf	0	root	_	_
+5	air	air	NOUN	SG-NOM	Number=Sing	7	compound	_	_
+6	transfer	transfer	NOUN	SG-NOM	Number=Sing	7	compound	_	_
+7	openings	opening	NOUN	PL-NOM	Number=Plur	4	obj	_	_
+8	and	and	CCONJ	_	_	12	cc	_	_
+9	shall	shall	AUX	PRES-AUX	VerbForm=Fin	12	aux	_	_
+10	not	not	PART	NEG	_	12	advmod	_	_
+11	be	be	AUX	INF	VerbForm=Inf	12	aux:pass	_	_
+12	undercut	undercut	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	_
+13	in	in	ADP	_	_	14	case	_	_
+14	excess	excess	NOUN	SG-NOM	Number=Sing	12	obl	_	_
+15	of	of	ADP	_	_	17	case	_	_
+16	the	the	DET	DEF	Definite=Def|PronType=Art	17	det	_	_
+17	clearance	clearance	NOUN	SG-NOM	Number=Sing	14	nmod	_	_
+18	permitted	permit	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	_
+19	in	in	ADP	_	_	20	case	_	_
+20	accordance	accordance	NOUN	SG-NOM	Number=Sing	18	obl	_	_
+21	with	with	ADP	_	_	22	case	_	_
+22	NFPA	Nfpa	PROPN	SG-NOM	Number=Sing	18	obl	_	_
+23	80	80	NUM	CARD-PL	NumType=Card	22	nummod	_	SpacesAfter=\n
+

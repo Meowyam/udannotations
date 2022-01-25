@@ -1,0 +1,519 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Where access is by means of a private road and the building address can not be viewed from the public way, a monument , pole or other approved sign or means shall be used to identify the structure.
+1	Where	where	ADV	WH-REL	PronType=Int	3	advmod	_	_
+2	access	access	NOUN	SG-NOM	Number=Sing	3	nsubj	_	_
+3	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	advcl	_	_
+4	by	by	ADP	_	_	5	case	_	_
+5	means	means	NOUN	PL-NOM	Number=Plur	3	obl	_	_
+6	of	of	ADP	_	_	9	case	_	_
+7	a	a	DET	IND-SG	Definite=Ind|PronType=Art	9	det	_	_
+8	private	private	ADJ	POS	Degree=Pos	9	amod	_	_
+9	road	road	NOUN	SG-NOM	Number=Sing	5	nmod	_	_
+10	and	and	CCONJ	_	_	17	cc	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	building	building	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	address	address	NOUN	SG-NOM	Number=Sing	17	nsubj:pass	_	_
+14	can	can	AUX	PRES-AUX	VerbForm=Fin	17	aux	_	_
+15	not	not	PART	NEG	_	17	advmod	_	_
+16	be	be	AUX	INF	VerbForm=Inf	17	aux:pass	_	_
+17	viewed	view	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	9	conj	_	_
+18	from	from	ADP	_	_	21	case	_	_
+19	the	the	DET	DEF	Definite=Def|PronType=Art	21	det	_	_
+20	public	public	ADJ	POS	Degree=Pos	21	amod	_	_
+21	way	way	NOUN	SG-NOM	Number=Sing	17	obl	_	SpaceAfter=No
+22	,	,	PUNCT	Comma	_	3	punct	_	_
+23	a	a	DET	IND-SG	Definite=Ind|PronType=Art	24	det	_	_
+24	monument	monument	NOUN	SG-NOM	Number=Sing	35	nsubj:pass	_	_
+25	,	,	PUNCT	Comma	_	26	punct	_	_
+26	pole	pole	ADJ	POS	Degree=Pos	24	amod	_	_
+27	or	or	CCONJ	_	_	30	cc	_	_
+28	other	other	ADJ	POS	Degree=Pos	30	amod	_	_
+29	approved	approved	ADJ	PERF	Case=Nom	30	amod	_	_
+30	sign	sign	NOUN	SG-NOM	Number=Sing	24	conj	_	_
+31	or	or	CCONJ	_	_	32	cc	_	_
+32	means	means	NOUN	PL-NOM	Number=Plur	24	conj	_	_
+33	shall	shall	AUX	PRES-AUX	VerbForm=Fin	35	aux	_	_
+34	be	be	AUX	INF	VerbForm=Inf	35	aux:pass	_	_
+35	used	use	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+36	to	to	PART	_	_	37	mark	_	_
+37	identify	identify	VERB	INF	VerbForm=Inf	35	xcomp	_	_
+38	the	the	DET	DEF	Definite=Def|PronType=Art	39	det	_	_
+39	structure	structure	NOUN	SG-NOM	Number=Sing	37	obj	_	SpaceAfter=No
+40	.	.	PUNCT	Period	_	35	punct	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Building height, number of stories and building area provisions shall be applied independently.
+1	Building	build	NOUN	SG-NOM	Number=Sing	2	compound	_	_
+2	height	height	NOUN	SG-NOM	Number=Sing	13	obl	_	SpaceAfter=No
+3	,	,	PUNCT	Comma	_	2	punct	_	_
+4	number	number	NOUN	SG-NOM	Number=Sing	13	nsubj:pass	_	_
+5	of	of	ADP	_	_	6	case	_	_
+6	stories	story	NOUN	PL-NOM	Number=Plur	4	nmod	_	_
+7	and	and	CCONJ	_	_	10	cc	_	_
+8	building	building	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	area	area	NOUN	SG-NOM	Number=Sing	10	compound	_	_
+10	provisions	provision	NOUN	PL-NOM	Number=Plur	6	conj	_	_
+11	shall	shall	AUX	PRES-AUX	VerbForm=Fin	13	aux	_	_
+12	be	be	AUX	INF	VerbForm=Inf	13	aux:pass	_	_
+13	applied	apply	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+14	independently	independently	ADV	_	_	13	advmod	_	SpaceAfter=No
+15	.	.	PUNCT	Period	_	13	punct	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Where access is by means of a private road and the building address can not be viewed from the public way, a monument , pole or other approved sign or means shall be used to identify the structure.
+1	Where	where	ADV	WH-REL	PronType=Int	3	advmod	_	_
+2	access	access	NOUN	SG-NOM	Number=Sing	3	nsubj	_	_
+3	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	advcl	_	_
+4	by	by	ADP	_	_	5	case	_	_
+5	means	means	NOUN	PL-NOM	Number=Plur	3	obl	_	_
+6	of	of	ADP	_	_	9	case	_	_
+7	a	a	DET	IND-SG	Definite=Ind|PronType=Art	9	det	_	_
+8	private	private	ADJ	POS	Degree=Pos	9	amod	_	_
+9	road	road	NOUN	SG-NOM	Number=Sing	5	nmod	_	_
+10	and	and	CCONJ	_	_	17	cc	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	building	building	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	address	address	NOUN	SG-NOM	Number=Sing	17	nsubj:pass	_	_
+14	can	can	AUX	PRES-AUX	VerbForm=Fin	17	aux	_	_
+15	not	not	PART	NEG	_	17	advmod	_	_
+16	be	be	AUX	INF	VerbForm=Inf	17	aux:pass	_	_
+17	viewed	view	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	9	conj	_	_
+18	from	from	ADP	_	_	21	case	_	_
+19	the	the	DET	DEF	Definite=Def|PronType=Art	21	det	_	_
+20	public	public	ADJ	POS	Degree=Pos	21	amod	_	_
+21	way	way	NOUN	SG-NOM	Number=Sing	17	obl	_	SpaceAfter=No
+22	,	,	PUNCT	Comma	_	3	punct	_	_
+23	a	a	DET	IND-SG	Definite=Ind|PronType=Art	24	det	_	_
+24	monument	monument	NOUN	SG-NOM	Number=Sing	35	nsubj:pass	_	_
+25	,	,	PUNCT	Comma	_	26	punct	_	_
+26	pole	pole	ADJ	POS	Degree=Pos	24	amod	_	_
+27	or	or	CCONJ	_	_	30	cc	_	_
+28	other	other	ADJ	POS	Degree=Pos	30	amod	_	_
+29	approved	approved	ADJ	PERF	Case=Nom	30	amod	_	_
+30	sign	sign	NOUN	SG-NOM	Number=Sing	24	conj	_	_
+31	or	or	CCONJ	_	_	32	cc	_	_
+32	means	means	NOUN	PL-NOM	Number=Plur	24	conj	_	_
+33	shall	shall	AUX	PRES-AUX	VerbForm=Fin	35	aux	_	_
+34	be	be	AUX	INF	VerbForm=Inf	35	aux:pass	_	_
+35	used	use	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+36	to	to	PART	_	_	37	mark	_	_
+37	identify	identify	VERB	INF	VerbForm=Inf	35	xcomp	_	_
+38	the	the	DET	DEF	Definite=Def|PronType=Art	39	det	_	_
+39	structure	structure	NOUN	SG-NOM	Number=Sing	37	obj	_	SpaceAfter=No
+40	.	.	PUNCT	Period	_	35	punct	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Building height, number of stories and building area provisions shall be applied independently.
+1	Building	build	NOUN	SG-NOM	Number=Sing	2	compound	_	_
+2	height	height	NOUN	SG-NOM	Number=Sing	13	obl	_	SpaceAfter=No
+3	,	,	PUNCT	Comma	_	2	punct	_	_
+4	number	number	NOUN	SG-NOM	Number=Sing	13	nsubj:pass	_	_
+5	of	of	ADP	_	_	6	case	_	_
+6	stories	story	NOUN	PL-NOM	Number=Plur	4	nmod	_	_
+7	and	and	CCONJ	_	_	10	cc	_	_
+8	building	building	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	area	area	NOUN	SG-NOM	Number=Sing	10	compound	_	_
+10	provisions	provision	NOUN	PL-NOM	Number=Plur	6	conj	_	_
+11	shall	shall	AUX	PRES-AUX	VerbForm=Fin	13	aux	_	_
+12	be	be	AUX	INF	VerbForm=Inf	13	aux:pass	_	_
+13	applied	apply	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+14	independently	independently	ADV	_	_	13	advmod	_	SpaceAfter=No
+15	.	.	PUNCT	Period	_	13	punct	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Each portion of a building separated by one or more fire walls complying with Section 10 shall be considered to be a separate building .
+1	Each	each	DET	TOT-SG	_	2	det	_	_
+2	portion	portion	NOUN	SG-NOM	Number=Sing	19	nsubj:pass	_	_
+3	of	of	ADP	_	_	5	case	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+5	building	building	NOUN	SG-NOM	Number=Sing	2	nmod	_	_
+6	separated	separate	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+7	by	by	ADP	_	_	8	case	_	_
+8	one	one	NUM	CARD-PL	NumType=Card	12	nummod	_	_
+9	or	or	CCONJ	CARD-PL	_	8	fixed	_	_
+10	more	very	ADV	CARD-PL	_	8	fixed	_	_
+11	fire	fire	NOUN	SG-NOM	Number=Sing	12	compound	_	_
+12	walls	wall	NOUN	PL-NOM	Number=Plur	6	obl	_	_
+13	complying	comply	VERB	ING	Tense=Pres|VerbForm=Part	6	advcl	_	_
+14	with	with	ADP	_	_	16	case	_	_
+15	Section	section	NOUN	SG-NOM	Number=Sing	16	compound	_	_
+16	10	10	NUM	CARD-PL	NumType=Card	13	obl	_	_
+17	shall	shall	AUX	PRES-AUX	VerbForm=Fin	19	aux	_	_
+18	be	be	AUX	INF	VerbForm=Inf	19	aux:pass	_	_
+19	considered	consider	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+20	to	to	PART	_	_	24	mark	_	_
+21	be	be	AUX	INF	VerbForm=Inf	24	cop	_	_
+22	a	a	DET	IND-SG	Definite=Ind|PronType=Art	24	det	_	_
+23	separate	separate	ADJ	POS	Degree=Pos	24	amod	_	_
+24	building	building	NOUN	SG-NOM	Number=Sing	19	xcomp	_	_
+25	.	.	PUNCT	Period	_	19	punct	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Where access is by means of a private road and the building address can not be viewed from the public way, a monument , pole or other approved sign or means shall be used to identify the structure.
+1	Where	where	ADV	WH-REL	PronType=Int	3	advmod	_	_
+2	access	access	NOUN	SG-NOM	Number=Sing	3	nsubj	_	_
+3	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	advcl	_	_
+4	by	by	ADP	_	_	5	case	_	_
+5	means	means	NOUN	PL-NOM	Number=Plur	3	obl	_	_
+6	of	of	ADP	_	_	9	case	_	_
+7	a	a	DET	IND-SG	Definite=Ind|PronType=Art	9	det	_	_
+8	private	private	ADJ	POS	Degree=Pos	9	amod	_	_
+9	road	road	NOUN	SG-NOM	Number=Sing	5	nmod	_	_
+10	and	and	CCONJ	_	_	17	cc	_	_
+11	the	the	DET	DEF	Definite=Def|PronType=Art	13	det	_	_
+12	building	building	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	address	address	NOUN	SG-NOM	Number=Sing	17	nsubj:pass	_	_
+14	can	can	AUX	PRES-AUX	VerbForm=Fin	17	aux	_	_
+15	not	not	PART	NEG	_	17	advmod	_	_
+16	be	be	AUX	INF	VerbForm=Inf	17	aux:pass	_	_
+17	viewed	view	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	9	conj	_	_
+18	from	from	ADP	_	_	21	case	_	_
+19	the	the	DET	DEF	Definite=Def|PronType=Art	21	det	_	_
+20	public	public	ADJ	POS	Degree=Pos	21	amod	_	_
+21	way	way	NOUN	SG-NOM	Number=Sing	17	obl	_	SpaceAfter=No
+22	,	,	PUNCT	Comma	_	3	punct	_	_
+23	a	a	DET	IND-SG	Definite=Ind|PronType=Art	24	det	_	_
+24	monument	monument	NOUN	SG-NOM	Number=Sing	35	nsubj:pass	_	_
+25	,	,	PUNCT	Comma	_	26	punct	_	_
+26	pole	pole	ADJ	POS	Degree=Pos	24	amod	_	_
+27	or	or	CCONJ	_	_	30	cc	_	_
+28	other	other	ADJ	POS	Degree=Pos	30	amod	_	_
+29	approved	approved	ADJ	PERF	Case=Nom	30	amod	_	_
+30	sign	sign	NOUN	SG-NOM	Number=Sing	24	conj	_	_
+31	or	or	CCONJ	_	_	32	cc	_	_
+32	means	means	NOUN	PL-NOM	Number=Plur	24	conj	_	_
+33	shall	shall	AUX	PRES-AUX	VerbForm=Fin	35	aux	_	_
+34	be	be	AUX	INF	VerbForm=Inf	35	aux:pass	_	_
+35	used	use	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+36	to	to	PART	_	_	37	mark	_	_
+37	identify	identify	VERB	INF	VerbForm=Inf	35	xcomp	_	_
+38	the	the	DET	DEF	Definite=Def|PronType=Art	39	det	_	_
+39	structure	structure	NOUN	SG-NOM	Number=Sing	37	obj	_	SpaceAfter=No
+40	.	.	PUNCT	Period	_	35	punct	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Building height, number of stories and building area provisions shall be applied independently.
+1	Building	build	NOUN	SG-NOM	Number=Sing	2	compound	_	_
+2	height	height	NOUN	SG-NOM	Number=Sing	13	obl	_	SpaceAfter=No
+3	,	,	PUNCT	Comma	_	2	punct	_	_
+4	number	number	NOUN	SG-NOM	Number=Sing	13	nsubj:pass	_	_
+5	of	of	ADP	_	_	6	case	_	_
+6	stories	story	NOUN	PL-NOM	Number=Plur	4	nmod	_	_
+7	and	and	CCONJ	_	_	10	cc	_	_
+8	building	building	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	area	area	NOUN	SG-NOM	Number=Sing	10	compound	_	_
+10	provisions	provision	NOUN	PL-NOM	Number=Plur	6	conj	_	_
+11	shall	shall	AUX	PRES-AUX	VerbForm=Fin	13	aux	_	_
+12	be	be	AUX	INF	VerbForm=Inf	13	aux:pass	_	_
+13	applied	apply	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+14	independently	independently	ADV	_	_	13	advmod	_	SpaceAfter=No
+15	.	.	PUNCT	Period	_	13	punct	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Each portion of a building separated by one or more fire walls complying with Section 10 shall be considered to be a separate building .
+1	Each	each	DET	TOT-SG	_	2	det	_	_
+2	portion	portion	NOUN	SG-NOM	Number=Sing	19	nsubj:pass	_	_
+3	of	of	ADP	_	_	5	case	_	_
+4	a	a	DET	IND-SG	Definite=Ind|PronType=Art	5	det	_	_
+5	building	building	NOUN	SG-NOM	Number=Sing	2	nmod	_	_
+6	separated	separate	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+7	by	by	ADP	_	_	8	case	_	_
+8	one	one	NUM	CARD-PL	NumType=Card	12	nummod	_	_
+9	or	or	CCONJ	CARD-PL	_	8	fixed	_	_
+10	more	very	ADV	CARD-PL	_	8	fixed	_	_
+11	fire	fire	NOUN	SG-NOM	Number=Sing	12	compound	_	_
+12	walls	wall	NOUN	PL-NOM	Number=Plur	6	obl	_	_
+13	complying	comply	VERB	ING	Tense=Pres|VerbForm=Part	6	advcl	_	_
+14	with	with	ADP	_	_	16	case	_	_
+15	Section	section	NOUN	SG-NOM	Number=Sing	16	compound	_	_
+16	10	10	NUM	CARD-PL	NumType=Card	13	obl	_	_
+17	shall	shall	AUX	PRES-AUX	VerbForm=Fin	19	aux	_	_
+18	be	be	AUX	INF	VerbForm=Inf	19	aux:pass	_	_
+19	considered	consider	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+20	to	to	PART	_	_	24	mark	_	_
+21	be	be	AUX	INF	VerbForm=Inf	24	cop	_	_
+22	a	a	DET	IND-SG	Definite=Ind|PronType=Art	24	det	_	_
+23	separate	separate	ADJ	POS	Degree=Pos	24	amod	_	_
+24	building	building	NOUN	SG-NOM	Number=Sing	19	xcomp	_	_
+25	.	.	PUNCT	Period	_	19	punct	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Two or more buildings on the same lot shall be regulated as separate buildings or shall be considered as portions of one building where the building height , number of stories of each building and the aggregate building area of the buildings are within the limitations specified in Sections 10 and 10 .
+1	Two	two	NUM	CARD-PL	NumType=Card	4	nummod	_	_
+2	or	or	CCONJ	_	_	3	cc	_	_
+3	more	very	ADJ	CMP	Degree=Cmp	1	conj	_	_
+4	buildings	building	NOUN	PL-NOM	Number=Plur	11	nsubj:pass	_	_
+5	on	on	ADP	_	_	8	case	_	_
+6	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
+7	same	same	ADJ	POS	Degree=Pos	8	amod	_	_
+8	lot	lot	NOUN	SG-NOM	Number=Sing	4	nmod	_	_
+9	shall	shall	AUX	PRES-AUX	VerbForm=Fin	11	aux	_	_
+10	be	be	AUX	INF	VerbForm=Inf	11	aux:pass	_	_
+11	regulated	regulate	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+12	as	as	ADP	_	_	14	case	_	_
+13	separate	separate	ADJ	POS	Degree=Pos	14	amod	_	_
+14	buildings	building	NOUN	PL-NOM	Number=Plur	11	obl	_	_
+15	or	or	CCONJ	_	_	18	cc	_	_
+16	shall	shall	AUX	PRES-AUX	VerbForm=Fin	18	aux	_	_
+17	be	be	AUX	INF	VerbForm=Inf	18	aux:pass	_	_
+18	considered	consider	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	11	conj	_	_
+19	as	as	ADP	_	_	20	case	_	_
+20	portions	portion	NOUN	PL-NOM	Number=Plur	18	obl	_	_
+21	of	of	ADP	_	_	23	case	_	_
+22	one	one	NUM	CARD-SG	NumType=Card	23	nummod	_	_
+23	building	building	NOUN	SG-NOM	Number=Sing	20	nmod	_	_
+24	where	where	ADV	WH-REL	PronType=Int	43	advmod	_	_
+25	the	the	DET	DEF	Definite=Def|PronType=Art	27	det	_	_
+26	building	building	NOUN	SG-NOM	Number=Sing	27	compound	_	_
+27	height	height	NOUN	SG-NOM	Number=Sing	43	nsubj	_	_
+28	,	,	PUNCT	Comma	_	27	punct	_	_
+29	number	number	NOUN	SG-NOM	Number=Sing	27	conj	_	_
+30	of	of	ADP	_	_	31	case	_	_
+31	stories	story	NOUN	PL-NOM	Number=Plur	29	nmod	_	_
+32	of	of	ADP	_	_	34	case	_	_
+33	each	each	DET	TOT-SG	_	34	det	_	_
+34	building	building	NOUN	SG-NOM	Number=Sing	31	nmod	_	_
+35	and	and	CCONJ	_	_	39	cc	_	_
+36	the	the	DET	DEF	Definite=Def|PronType=Art	39	det	_	_
+37	aggregate	aggregate	NOUN	SG-NOM	Number=Sing	38	compound	_	_
+38	building	building	NOUN	SG-NOM	Number=Sing	39	compound	_	_
+39	area	area	NOUN	SG-NOM	Number=Sing	27	conj	_	_
+40	of	of	ADP	_	_	42	case	_	_
+41	the	the	DET	DEF	Definite=Def|PronType=Art	42	det	_	_
+42	buildings	building	NOUN	PL-NOM	Number=Plur	39	nmod	_	_
+43	are	be	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+44	within	within	ADP	_	_	46	case	_	_
+45	the	the	DET	DEF	Definite=Def|PronType=Art	46	det	_	_
+46	limitations	limitation	NOUN	PL-NOM	Number=Plur	43	obl	_	_
+47	specified	specify	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	46	acl	_	_
+48	in	in	ADP	_	_	50	case	_	_
+49	Sections	section	NOUN	PL-NOM	Number=Plur	50	compound	_	_
+50	10	10	NUM	CARD-PL	NumType=Card	47	obl	_	_
+51	and	and	CCONJ	_	_	52	cc	_	_
+52	10	10	NUM	CARD-PL	NumType=Card	50	conj	_	_
+53	.	.	PUNCT	Period	_	11	punct	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = The provisions of this code applicable to the aggregate building shall be applicable to each building .
+1	The	the	DET	DEF	Definite=Def|PronType=Art	2	det	_	_
+2	provisions	provision	NOUN	PL-NOM	Number=Plur	13	nsubj	_	_
+3	of	of	ADP	_	_	5	case	_	_
+4	this	this	DET	DEM-SG	Number=Sing|PronType=Dem	5	det	_	_
+5	code	code	NOUN	SG-NOM	Number=Sing	2	nmod	_	_
+6	applicable	applicable	ADJ	POS	Degree=Pos	2	amod	_	_
+7	to	to	ADP	_	_	10	case	_	_
+8	the	the	DET	DEF	Definite=Def|PronType=Art	10	det	_	_
+9	aggregate	aggregate	NOUN	SG-NOM	Number=Sing	10	compound	_	_
+10	building	building	NOUN	SG-NOM	Number=Sing	6	nmod	_	_
+11	shall	shall	AUX	PRES-AUX	VerbForm=Fin	13	aux	_	_
+12	be	be	AUX	INF	VerbForm=Inf	13	cop	_	_
+13	applicable	applicable	ADJ	POS	Degree=Pos	0	root	_	_
+14	to	to	ADP	_	_	16	case	_	_
+15	each	each	DET	TOT-SG	_	16	det	_	_
+16	building	building	NOUN	SG-NOM	Number=Sing	13	nmod	_	_
+17	.	.	PUNCT	Period	_	13	punct	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Buildings of Type I construction permitted to be of unlimited tabular building heights and areas are not subject to the special requirements that allow unlimited area buildings in Section 10 or unlimited building height in Sections 10 and 10 or increased building heights and areas for other types of construction .
+1	Buildings	building	NOUN	PL-NOM	Number=Plur	0	root	_	_
+2	of	of	ADP	_	_	3	case	_	_
+3	Type	type	PROPN	SG-NOM	Number=Sing	1	nmod	_	_
+4	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nmod:poss	_	_
+5	construction	construction	NOUN	SG-NOM	Number=Sing	6	nsubj	_	_
+6	permitted	permit	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	1	acl:relcl	_	_
+7	to	to	PART	_	_	13	mark	_	_
+8	be	be	AUX	INF	VerbForm=Inf	13	cop	_	_
+9	of	of	ADP	_	_	13	case	_	_
+10	unlimited	unlimit	ADJ	PASS	Degree=Pos	11	amod	_	_
+11	tabular	tabular	NOUN	SG-NOM	Number=Sing	12	compound	_	_
+12	building	building	NOUN	SG-NOM	Number=Sing	13	compound	_	_
+13	heights	height	NOUN	PL-NOM	Number=Plur	18	nsubj	_	_
+14	and	and	CCONJ	_	_	15	cc	_	_
+15	areas	area	NOUN	PL-NOM	Number=Plur	13	conj	_	_
+16	are	be	AUX	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	_	_
+17	not	not	PART	NEG	_	18	advmod	_	_
+18	subject	subject	VERB	INF	VerbForm=Inf	6	xcomp	_	_
+19	to	to	ADP	_	_	22	case	_	_
+20	the	the	DET	DEF	Definite=Def|PronType=Art	22	det	_	_
+21	special	special	ADJ	POS	Degree=Pos	22	amod	_	_
+22	requirements	requirement	NOUN	PL-NOM	Number=Plur	18	obl	_	_
+23	that	that	PRON	REL	PronType=Rel	24	nsubj	_	_
+24	allow	allow	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	_
+25	unlimited	unlimit	ADJ	PASS	Degree=Pos	27	amod	_	_
+26	area	area	NOUN	SG-NOM	Number=Sing	27	compound	_	_
+27	buildings	building	NOUN	PL-NOM	Number=Plur	24	obj	_	_
+28	in	in	ADP	_	_	34	case	_	_
+29	Section	section	NOUN	SG-NOM	Number=Sing	34	compound	_	_
+30	10	10	NUM	CARD-PL	NumType=Card	34	nummod	_	_
+31	or	or	CCONJ	_	_	32	cc	_	_
+32	unlimited	unlimit	ADJ	POS	Degree=Pos	30	conj	_	_
+33	building	building	NOUN	SG-NOM	Number=Sing	34	compound	_	_
+34	height	height	NOUN	SG-NOM	Number=Sing	24	obl	_	_
+35	in	in	ADP	_	_	43	case	_	_
+36	Sections	section	NOUN	PL-NOM	Number=Plur	43	compound	_	_
+37	10	10	NUM	CARD-PL	NumType=Card	43	nummod	_	_
+38	and	and	CCONJ	_	_	39	cc	_	_
+39	10	10	NUM	CARD-PL	NumType=Card	37	conj	_	_
+40	or	or	CCONJ	_	_	41	cc	_	_
+41	increased	increase	ADJ	PASS	Case=Nom	37	conj	_	_
+42	building	building	NOUN	SG-NOM	Number=Sing	43	compound	_	_
+43	heights	height	NOUN	PL-NOM	Number=Plur	34	nmod	_	_
+44	and	and	CCONJ	_	_	45	cc	_	_
+45	areas	area	NOUN	PL-NOM	Number=Plur	43	conj	_	_
+46	for	for	ADP	_	_	48	case	_	_
+47	other	other	ADJ	POS	Degree=Pos	48	amod	_	_
+48	types	type	NOUN	PL-NOM	Number=Plur	45	nmod	_	_
+49	of	of	ADP	_	_	50	case	_	_
+50	construction	construction	NOUN	SG-NOM	Number=Sing	48	nmod	_	_
+51	.	.	PUNCT	Period	_	1	punct	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = The height , in feet , and the number of stories of a building shall be determined based on the type of construction , occupancy classification and whether there is an automatic sprinkler system installed throughout the building .
+1	The	the	DET	DEF	Definite=Def|PronType=Art	2	det	_	_
+2	height	height	NOUN	SG-NOM	Number=Sing	17	nsubj:pass	_	_
+3	,	,	PUNCT	Comma	_	5	punct	_	_
+4	in	in	ADP	_	_	5	case	_	_
+5	feet	foot	NOUN	PL-NOM	Number=Plur	2	nmod	_	_
+6	,	,	PUNCT	Comma	_	5	punct	_	_
+7	and	and	CCONJ	_	_	9	cc	_	_
+8	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_
+9	number	number	NOUN	SG-NOM	Number=Sing	5	conj	_	_
+10	of	of	ADP	_	_	11	case	_	_
+11	stories	story	NOUN	PL-NOM	Number=Plur	9	nmod	_	_
+12	of	of	ADP	_	_	14	case	_	_
+13	a	a	DET	IND-SG	Definite=Ind|PronType=Art	14	det	_	_
+14	building	building	NOUN	SG-NOM	Number=Sing	11	nmod	_	_
+15	shall	shall	AUX	PRES-AUX	VerbForm=Fin	17	aux	_	_
+16	be	be	AUX	INF	VerbForm=Inf	17	aux:pass	_	_
+17	determined	determin	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+18	based	base	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	17	advcl	_	_
+19	on	on	ADP	_	_	21	case	_	_
+20	the	the	DET	DEF	Definite=Def|PronType=Art	21	det	_	_
+21	type	type	NOUN	SG-NOM	Number=Sing	18	obl	_	_
+22	of	of	ADP	_	_	23	case	_	_
+23	construction	construction	NOUN	SG-NOM	Number=Sing	21	nmod	_	_
+24	,	,	PUNCT	Comma	_	23	punct	_	_
+25	occupancy	occupancy	ADJ	POS	Degree=Pos	26	amod	_	_
+26	classification	classification	NOUN	SG-NOM	Number=Sing	23	conj	_	_
+27	and	and	CCONJ	_	_	28	cc	_	_
+28	whether	whether	SCONJ	WH	_	30	mark	_	_
+29	there	there	PRON	EX	_	30	expl	_	_
+30	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+31	an	an	DET	IND-SG	Definite=Ind|PronType=Art	34	det	_	_
+32	automatic	automatic	ADJ	POS	Degree=Pos	34	amod	_	_
+33	sprinkler	sprinkler	NOUN	SG-NOM	Number=Sing	34	compound	_	_
+34	system	system	NOUN	SG-NOM	Number=Sing	30	nsubj	_	_
+35	installed	install	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	34	acl	_	_
+36	throughout	throughout	ADP	_	_	38	case	_	_
+37	the	the	DET	DEF	Definite=Def|PronType=Art	38	det	_	_
+38	building	building	NOUN	SG-NOM	Number=Sing	35	obl	_	_
+39	.	.	PUNCT	Period	_	17	punct	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = The height of unlimited area buildings shall be designed in accordance with Section 10 .
+1	The	the	DET	DEF	Definite=Def|PronType=Art	2	det	_	_
+2	height	height	NOUN	SG-NOM	Number=Sing	9	nsubj:pass	_	_
+3	of	of	ADP	_	_	6	case	_	_
+4	unlimited	unlimit	ADJ	PASS	Degree=Pos	5	amod	_	_
+5	area	area	NOUN	SG-NOM	Number=Sing	6	compound	_	_
+6	buildings	building	NOUN	PL-NOM	Number=Plur	2	nmod	_	_
+7	shall	shall	AUX	PRES-AUX	VerbForm=Fin	9	aux	_	_
+8	be	be	AUX	INF	VerbForm=Inf	9	aux:pass	_	_
+9	designed	design	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+10	in	in	ADP	_	_	11	case	_	_
+11	accordance	accordance	NOUN	SG-NOM	Number=Sing	9	obl	_	_
+12	with	with	ADP	_	_	14	case	_	_
+13	Section	section	NOUN	SG-NOM	Number=Sing	14	compound	_	_
+14	10	10	NUM	CARD-PL	NumType=Card	11	nummod	_	_
+15	.	.	PUNCT	Period	_	9	punct	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = The maximum height , in feet , of a building shall not exceed the limits specified in Table 10 .
+1	The	the	DET	DEF	Definite=Def|PronType=Art	3	det	_	_
+2	maximum	maximum	NOUN	SG-NOM	Number=Sing	3	compound	_	_
+3	height	height	NOUN	SG-NOM	Number=Sing	13	nsubj	_	_
+4	,	,	PUNCT	Comma	_	6	punct	_	_
+5	in	in	ADP	_	_	6	case	_	_
+6	feet	foot	NOUN	PL-NOM	Number=Plur	13	nsubj	_	_
+7	,	,	PUNCT	Comma	_	6	punct	_	_
+8	of	of	ADP	_	_	10	case	_	_
+9	a	a	DET	IND-SG	Definite=Ind|PronType=Art	10	det	_	_
+10	building	building	NOUN	SG-NOM	Number=Sing	6	nmod	_	_
+11	shall	shall	AUX	PRES-AUX	VerbForm=Fin	13	aux	_	_
+12	not	not	PART	NEG	_	13	advmod	_	_
+13	exceed	exceed	VERB	INF	VerbForm=Inf	0	root	_	_
+14	the	the	DET	DEF	Definite=Def|PronType=Art	15	det	_	_
+15	limits	limit	NOUN	PL-NOM	Number=Plur	13	obj	_	_
+16	specified	specify	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	15	acl	_	_
+17	in	in	ADP	_	_	19	case	_	_
+18	Table	table	ADJ	POS	Degree=Pos	19	amod	_	_
+19	10	10	NUM	CARD-PL	NumType=Card	16	obl	_	_
+20	.	.	PUNCT	Period	_	13	punct	_	SpacesAfter=\n
+
+# newdoc
+# newpar
+# sent_id = 1
+# text = Towers , spires , steeples and other roof structures shall be constructed of materials consistent with the required type of construction of the building except where other construction is permitted by Section 10 .
+1	Towers	Tower	NOUN	PL-NOM	Number=Plur	12	nsubj:pass	_	_
+2	,	,	PUNCT	Comma	_	1	punct	_	_
+3	spires	spire	NOUN	PL-NOM	Number=Plur	1	conj	_	_
+4	,	,	PUNCT	Comma	_	3	punct	_	_
+5	steeples	steeple	NOUN	PL-NOM	Number=Plur	1	conj	_	_
+6	and	and	CCONJ	_	_	9	cc	_	_
+7	other	other	ADJ	POS	Degree=Pos	9	amod	_	_
+8	roof	roof	NOUN	SG-NOM	Number=Sing	9	compound	_	_
+9	structures	structur	NOUN	PL-NOM	Number=Plur	1	conj	_	_
+10	shall	shall	AUX	PRES-AUX	VerbForm=Fin	12	aux	_	_
+11	be	be	AUX	INF	VerbForm=Inf	12	aux:pass	_	_
+12	constructed	construct	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+13	of	of	ADP	_	_	14	case	_	_
+14	materials	material	NOUN	PL-NOM	Number=Plur	12	obl	_	_
+15	consistent	consistent	ADJ	POS	Degree=Pos	14	amod	_	_
+16	with	with	ADP	_	_	19	case	_	_
+17	the	the	DET	DEF	Definite=Def|PronType=Art	19	det	_	_
+18	required	required	ADJ	POS	Degree=Pos	19	amod	_	_
+19	type	type	NOUN	SG-NOM	Number=Sing	15	nmod	_	_
+20	of	of	ADP	_	_	21	case	_	_
+21	construction	construction	NOUN	SG-NOM	Number=Sing	19	nmod	_	_
+22	of	of	ADP	_	_	24	case	_	_
+23	the	the	DET	DEF	Definite=Def|PronType=Art	24	det	_	_
+24	building	building	NOUN	SG-NOM	Number=Sing	21	nmod	_	_
+25	except	except	ADP	_	_	30	mark	_	_
+26	where	where	ADV	WH-REL	PronType=Int	30	advmod	_	_
+27	other	other	ADJ	POS	Degree=Pos	28	amod	_	_
+28	construction	construction	NOUN	SG-NOM	Number=Sing	30	nsubj:pass	_	_
+29	is	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	aux:pass	_	_
+30	permitted	permit	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	24	acl	_	_
+31	by	by	ADP	_	_	32	case	_	_
+32	Section	section	NOUN	SG-NOM	Number=Sing	30	obl	_	_
+33	10	10	NUM	CARD-PL	NumType=Card	32	nummod	_	_
+34	.	.	PUNCT	Period	_	12	punct	_	SpacesAfter=\n
+
